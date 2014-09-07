@@ -23,6 +23,7 @@ group :test, :development do
   gem 'binding_of_caller'
   gem 'hirb'
   gem 'rails-footnotes',    '>= 4.0.0', '<5' 
+  gem 'sextant'
 end
 
 group :production do
